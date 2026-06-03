@@ -1,5 +1,5 @@
 
-# Zepto SQL Data Analysis Project
+#Sales Performance Analysis using Excel
 
 ## Project Overview
 
