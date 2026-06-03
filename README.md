@@ -1,5 +1,5 @@
 
-#Sales Performance Analysis using Excel
+#Retail-Pricing-Analysis-using-SQL
 
 ## Project Overview
 
