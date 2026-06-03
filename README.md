@@ -38,7 +38,7 @@ The dataset contains information about products available on the Zepto platform,
 ### 1. Database Setup
 
 * Created database and tables
-* Imported raw dataset into PostgreSQL
+* Imported raw dataset into MySQL
 
 ### 2. Data Cleaning
 
